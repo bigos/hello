@@ -1,5 +1,7 @@
 module Main where
 
+impoer Hello
+
 main :: IO ()
 main = do
-  putStrLn "hello world"
+  sayHello
