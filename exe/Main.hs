@@ -1,6 +1,6 @@
 module Main where
 
-impoer Hello
+import Hello
 
 main :: IO ()
 main = do
